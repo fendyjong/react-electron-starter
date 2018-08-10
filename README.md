@@ -3,15 +3,16 @@
 ## Development
 `yarn`
 
-#### Desktop
-`yarn electron-dev`
-
 #### Web
 `yarn start`
 
+#### Electron
+`yarn electron-dev`
+
 ## Distribution
-#### Desktop
-`yarn electron-pack`
 
 #### Web
 `yarn build`
+
+#### Electron
+`yarn electron-pack`
