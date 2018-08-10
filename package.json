@@ -1,5 +1,5 @@
 {
-	"name": "toko-admin-electron",
+	"name": "react-electron-starter",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
